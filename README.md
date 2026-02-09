@@ -7,5 +7,5 @@
   <a href="https://www.linkedin.com/in/yashvardhan04">
     <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=itsyashvardhan&label=VIEWS&color=1F6FEB&style=for-the-badge&base=3000" />
+  <img src="https://komarev.com/ghpvc/?username=itsyashvardhan&label=VISITORS&color=1F6FEB&style=for-the-badge&base=3000" />
 </p>
