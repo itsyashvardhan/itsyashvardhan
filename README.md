@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**itsyashvardhan/itsyashvardhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itsyashvardhan&label=VIEWS&color=1F6FEB&style=for-the-badge&base=3000" />
+  <img src="https://img.shields.io/github/stars/itsyashvardhan?label=STARS&color=F5C518&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ROLE-AI%20%7C%20SOLUTIONS%20%7C%20PRODUCT-7C3AED?style=for-the-badge" />
+  <a href="https://yashvardhan.dev">
+    <img src="https://img.shields.io/badge/PORTFOLIO-yashvardhan.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/yashvardhan04">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
