@@ -1,5 +1,5 @@
 # यशवर्धन { Yashvardhan }
-Engineer. Builder. ICCCNet 2026 - Optimizing Vision Encoders for Edge-Deployed Visual LLMs.
+Founding Engineer. ICCCNet 2026 - Optimizing Vision Encoders for Edge-Deployed Visual LLMs.
 
 ## What I Build
 - **DiagFlo** - LLM engine converting plain language into 20+ diagram formats. ~50 weekly users. [diagflo.yashvardhan.dev](https://diagflo.yashvardhan.dev)
