@@ -1,6 +1,6 @@
-# यशवर्धन { Yashvardhan } - Founding / Product Engineer 
+# यशवर्धन [ jəʃ · ʋər · d̪ʱən ]
 
-## Research - [vllmarchitect](https://vllmarchitect.yashvardhan.dev)
+## Research [vllmarchitect](https://vllmarchitect.yashvardhan.dev)
 **Optimizing Vision Encoders for Edge-Deployed Visual LLMs**
 *ICCCNet 2026 | published LNNS*
 - Benchmarked 8 architectures across 4 hardware platforms; TTFT ranging from 1.6ms to 98.0ms on identical hardware
